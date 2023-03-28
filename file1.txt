@@ -1,6 +1,1 @@
-baf - line 1 hello world
-<<<<<<< HEAD
-Baf gamiesai
-=======
-Baf gamiesai
->>>>>>> 2d17b83dace3f7d771b134a3ebd4cc726d9fb556
+eimai kavla
