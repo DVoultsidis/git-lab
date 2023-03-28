@@ -1,1 +1,3 @@
 file2
+
+added text to file2
